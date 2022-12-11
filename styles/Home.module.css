@@ -13,6 +13,12 @@
   font-weight: bold;
 }
 
+.container > form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
 .button {
   color: #7449bb;
   background-color: white;
